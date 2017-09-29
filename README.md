@@ -55,3 +55,5 @@ gsfd
 gdfs
 sdf
 g
+
+hocus pocus let me fucking focus
