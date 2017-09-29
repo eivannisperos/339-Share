@@ -57,3 +57,5 @@ sdf
 g
 
 hocus pocus let me fucking focus
+
+pop pippity pop lock drop stop rollllll
